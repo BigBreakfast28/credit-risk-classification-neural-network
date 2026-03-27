@@ -1,6 +1,9 @@
 # credit-risk-classification-neural-network
 This project builds a deep learning model to classify individuals into financial risk categories (Low, Medium, High) based on demographic and financial features.
 
+## 📌 Problem Statement
+Financial institutions need to assess customer risk to minimize default rates. This project builds a neural network to classify individuals into risk categories.
+
 ## 📈 Model Performance
 
 ![Experiment Results](images/Final_Experiment_Results.JPG)
