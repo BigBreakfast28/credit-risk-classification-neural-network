@@ -3,7 +3,7 @@ This project builds a deep learning model to classify individuals into financial
 
 ## 📈 Model Performance
 
-![Confusion Matrix](images/Confusion_Matrix_Exp1.jpg)
+![Confusion Matrix](images/Confusion_Matrix_Exp1.JPG)
 
 ## ⚠️ Key Challenge
 
